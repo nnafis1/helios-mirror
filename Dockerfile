@@ -1,4 +1,4 @@
-FROM eaustin6/mltb:latest
+FROM tiararose773/heliosmirror:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
